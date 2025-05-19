@@ -6,4 +6,4 @@
 
 ## Thist is task 3 Commit
 
-v1.0.0
+v1.0.1
